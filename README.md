@@ -131,7 +131,7 @@ Top fraud indicators:
 * TRANSFER transactions
 * CASH_OUT transactions
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 Fraud-Detection-Using-SQL-PaySim/
@@ -154,7 +154,7 @@ Fraud-Detection-Using-SQL-PaySim/
 └── README.md
 ```
 
-## 🚀 How to Run
+##  How to Run
 
 1. Load dataset into PostgreSQL
 2. Run SQL scripts for analysis
@@ -163,7 +163,7 @@ Fraud-Detection-Using-SQL-PaySim/
 5. Evaluate and save the model
 
 
-## 📌 Key Learnings
+##  Key Learnings
 
 * SQL is extremely powerful for fraud detection
 * Fraud datasets are highly imbalanced
@@ -177,7 +177,7 @@ Fraud-Detection-Using-SQL-PaySim/
 * Fraud analytics understanding
 * Machine learning on imbalanced data
 
-## 👤 Author
+##  Author
 
 **Kiran**
 B.Tech CSE
