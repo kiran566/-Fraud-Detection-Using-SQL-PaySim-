@@ -9,7 +9,7 @@ This project builds an **end-to-end fraud detection system** using **SQL for ana
 
 The workflow mirrors **real industry practices**:
 
-> Database → SQL analysis →  → Python → ML model
+> Database → SQL analysis → Python → ML model
 
 ##  Objectives
 
